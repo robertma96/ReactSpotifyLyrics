@@ -31,7 +31,7 @@ function App() {
         const expiresIn = queryString.parse(window.location.hash)['expires_in'];
         const cookie_token = cookies.get('access_token');
 
-        if (cookie_token !== undefined || "undefined") {
+        if (cookie_token !== undefined) {
             console.log('got it from cookies');
             setAccessToken(cookie_token);
         }
