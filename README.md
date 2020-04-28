@@ -1,3 +1,9 @@
+# In addition, you need to obtain two API Keys:
+1. [Spotify API Key](src/App.js) 
+2. [Genius API Key](src/components/Lyrics.js)
+
+The purpose of this project was to get familiar with React Hooks. It doesn't have a backend and this makes it insecure.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
