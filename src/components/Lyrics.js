@@ -12,7 +12,7 @@ function Lyrics(props) {
 
     useEffect(() => {
         const options = {
-            apiKey: 'xnUB_b2pdlYMJGZGHIFDZqpmaA7Oxi3SGaDM-fCc8Zvh9Q4huzpuQZp2MiTb4b6S',  // genius developer access token
+            apiKey: '',  // genius developer access token
             title: song,
             artist: artist,
             optimizeQuery: true
