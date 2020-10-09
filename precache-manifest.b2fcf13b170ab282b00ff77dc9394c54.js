@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6586e061b4ad2b6997010aa2598e65be",
+    "revision": "51f590223fb12548d7559ea40ea6aefd",
     "url": "/react-spotify-lyrics/index.html"
   },
   {
-    "revision": "2a12a3704ac4161ff664",
+    "revision": "277b7c108fe8fa909bf4",
     "url": "/react-spotify-lyrics/static/css/2.5b44f0a0.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-spotify-lyrics/static/css/main.816e2c00.chunk.css"
   },
   {
-    "revision": "2a12a3704ac4161ff664",
-    "url": "/react-spotify-lyrics/static/js/2.018a5c56.chunk.js"
+    "revision": "277b7c108fe8fa909bf4",
+    "url": "/react-spotify-lyrics/static/js/2.525fc360.chunk.js"
   },
   {
     "revision": "4f41e551454b7ceb5ea520e07b47f17e",
-    "url": "/react-spotify-lyrics/static/js/2.018a5c56.chunk.js.LICENSE.txt"
+    "url": "/react-spotify-lyrics/static/js/2.525fc360.chunk.js.LICENSE.txt"
   },
   {
     "revision": "924125381a3067cb3d98",
